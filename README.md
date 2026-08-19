@@ -9,6 +9,13 @@ Free assets used in this project belong to their respective creators and are use
 
 :video_game: :gear: :video_game:  :gear: :video_game: :gear: :video_game: :gear: :video_game: :gear: :video_game:
 
+## Built with
+
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com)
+
+
 This game is still in the works but you can check out these screenshots of it: 
 
 
